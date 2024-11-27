@@ -1,1 +1,1 @@
-# Guess-The-Number
+# 1 project for "1 project per day"
